@@ -4,17 +4,17 @@
 
 🎯 Sobre ti:
 
-🌱 Actualmente aprendiendo:[tecnología]
-👨‍💻 Trabajando en: [proyecto actual]
-🎯 Objetivos 2024: [convertirme en profesional y trabajar programando]
-📫 Contacto: [tonymatos@gmail.com]
-⚡ Dato curioso: [Nunca pares de aprender]
+🌱 Actualmente aprendiendo:[tecnología]  
+👨‍💻 Trabajando en: [proyecto actual]  
+🎯 Objetivos 2024: [convertirme en profesional y trabajar programando]  
+📫 Contacto: [tonymatos@gmail.com]  
+⚡ Dato curioso: [Nunca pares de aprender]  
 
-🔧 Tecnologías
-💻 Lenguajes: JavaScript, Python, HTML, CSS
-🚀 Frameworks: React, Node.js
-🛠️ Herramientas: Git, VS Code, Docker, Figma
-📊 Bases de datos: MySQL, MongoDB, PostgreSQL
+🔧 Tecnologías  
+💻 Lenguajes: JavaScript, Python, HTML, CSS  
+🚀 Frameworks: React, Node.js  
+🛠️ Herramientas: Git, VS Code, Docker, Figma  
+📊 Bases de datos: MySQL, MongoDB, PostgreSQL  
 
 ## Vias de contacto
 
