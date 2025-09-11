@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**CiberFrank/CiberFrank** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Desarrollador de pagianas web**
 
-Here are some ideas to get you started:
+🎯 Sobre ti:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Actualmente aprendiendo:[tecnología]
+👨‍💻 Trabajando en: [proyecto actual]
+🎯 Objetivos 2024: [convertirme en profesional y trabajar programando]
+📫 Contacto: [tonymatos@gmail.com]
+⚡ Dato curioso: [Nunca pares de aprender]
+
+🔧 Tecnologías
+💻 Lenguajes: JavaScript, Python, HTML, CSS
+🚀 Frameworks: React, Node.js
+🛠️ Herramientas: Git, VS Code, Docker, Figma
+📊 Bases de datos: MySQL, MongoDB, PostgreSQL
+
+## Vias de contacto
+
+LinkedIn | Twitter | Portfolio | Email
